@@ -1,14 +1,14 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: Finplace
 logo: 
-author: themefisher
-description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+author: FinPlace
+description: Encuentra tu partner financiero
+email: finplacegroup@gmail.com
+phone: +569 7888 6663
+#address: 125/A, CA Commercial Area, California, USA
+#copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
 - {name: About, link: '/about'}
@@ -292,5 +292,5 @@ client-slider-items:
 #-------------------------------
 # Contact Section
 
-contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-title: Contacto
+contact-email: finplacegroup@gmail.com
