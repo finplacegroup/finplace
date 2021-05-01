@@ -11,10 +11,10 @@ phone: +569 7888 6663
 #copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
-- {name: About, link: '/about'}
-- {name: Blog, link: '/blog'}
-- {name: Portfolio, link: '/portfolio'}
-- {name: Contact, link: '/contact'}
+- {name: About, link: '/finplace/about'}
+- {name: Blog, link: '/finplace/blog'}
+- {name: Portfolio, link: '/finplace/portfolio'}
+- {name: Contact, link: '/finplace/contact'}
 
 
 #-------------------------------
@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Encuentra <br> tu contador <br> ideal
 
 social:
 - {icon: "ti-facebook", link: "#"}
@@ -52,8 +52,8 @@ social:
 
 # About Section
 blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+  Llena el formulario para conocerte y recomendarte los mejores contadores para tu industria y problemática. Si no se cumplen tus requisitos de satisfacción se te devuolverá el dinero.
+ 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
 
