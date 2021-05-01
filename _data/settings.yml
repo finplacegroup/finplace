@@ -12,9 +12,9 @@ phone: +569 7888 6663
 
 menu:
 - {name: ¿Eres Contador?, link: 'https://forms.gle/Ba84h99N9P3KYiME8'}
-#- {name: Blog, link: '/finplace/blog'}
-#- {name: Portfolio, link: '/finplace/portfolio'}
-#- {name: Contact, link: '/finplace/contact'}
+- {name: Blog, link: '/finplace/blog'}
+- {name: Portfolio, link: '/finplace/portfolio'}
+- {name: Contact, link: '/finplace/contact'}
 
 
 #-------------------------------
