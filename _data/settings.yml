@@ -173,15 +173,15 @@ portfolio-home-items:
 # Portfolio Page
 portfolio-label:
 - {
-    title : "UI/UX Design",
+    title : "Microempresa",
     type : "design"
   }
 - {
-    title : "BRANDING",
+    title : "Pequeña Empresa",
     type : "branding"
   }
 - {
-    title : "ILLUSTRATION",
+    title : "Empresa Mediana",
     type : "illustration"
   }
 
